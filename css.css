@@ -1,0 +1,69 @@
+.bg-dark{
+	background-color: black!important;
+}
+
+header #navPrincipal a{
+	font-family: "Bebas", sans-serif;
+	color:white;
+	letter-spacing: 3px;
+}
+
+
+header #navPrincipal a:hover{
+	color:#D61B1E;
+}
+
+#section1{
+    height: 400px;
+    background: url("MATERIALES/img/fondo.jpg");
+    background-attachment: fixed; 
+    background-size: cover;
+    color: white;
+
+}
+
+#section1 h1{
+    font-size: 60px;
+}
+
+
+#ellas{
+    letter-spacing: 5px;
+  
+}
+
+
+section article a{
+background-color: black;
+letter-spacing: 3px;
+color: white;
+font-size: 12px;
+    
+}
+
+
+section article a:hover{
+	background-color:#D61B1E;
+	text-decoration: none;
+    color: black;
+}
+#section2{
+    background: url("MATERIALES/img/fondo2.jpg");
+    height: 400px;
+    background-attachment: fixed; 
+    background-size: cover;
+    color: white;
+
+}
+
+footer{
+    background-color: black;
+}
+
+#tiendas{
+    background: url("MATERIALES/img/store.jpg");
+    height: 400px;
+    background-attachment: fixed;
+    background-size: cover;
+    
+}
